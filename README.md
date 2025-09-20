@@ -1,6 +1,5 @@
 # About Me:
-Hey there, I’m Jake, I’m just some random guy online the internet who makes random websites among other things for fun!
-
+Hey there! I'm Jake, an upcoming software engineer with some experience in HTML, CSS, JavaScript, Python, Unreal Engine, and other programming languages. While I’m still improving my skills, I have worked on multiple projects, which you can check out on my website's about me section. My hobbies include gaming (mainly Minecraft and Roblox), coding, and uhh, honestly, I don't know. 
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1185861287528374322) 
