@@ -14,5 +14,5 @@ Hey there! I'm Jake, an upcoming software engineer with some experience in HTML,
 ---
 [![](https://visitcount.itsvg.in/api?id=somerandomguyonhere&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## You can help me by Donating
+  ## You can help me by donating at:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/jakeyboiishere?new=1) 
